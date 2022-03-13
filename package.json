@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js-selfbot": "^12.0.2",
+    "randomstring": "^1.2.2"
+  },
+  "name": "zweq",
+  "version": "1.0.0",
+  "description": "zweqselfbot",
+  "main": "zweq.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node zweq.js"
+  },
+  "author": "zweq",
+  "license": "ISC"
+}
